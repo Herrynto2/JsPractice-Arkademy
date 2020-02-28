@@ -4,3 +4,5 @@ Package Plugin : javascrpt, stadardJS, NPM, npm Intellisense
 - npm init 
 - Asyncronous
 - Axios : termasuk asynct await menggunakan then and catch
+
+Senin : Express.js, Http Method
