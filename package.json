@@ -1,0 +1,26 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Javascript Basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herrynto2/JSFund.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs"
+  ],
+  "author": "herry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herrynto2/JSFund/issues"
+  },
+  "homepage": "https://github.com/Herrynto2/JSFund#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
