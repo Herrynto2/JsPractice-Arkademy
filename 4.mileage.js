@@ -20,3 +20,5 @@ function hitjarak(Va, Sa) {
 }
 hitjarak(6, 11);
 
+
+//Cara Trainer
